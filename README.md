@@ -11,7 +11,7 @@ outside it, and leaves an attestation that anyone can verify independently.
 
 | | |
 |---|---|
-| **Live demo** | https://monad-gate.pages.dev |
+| **Live demo** | [https://monad-gate.pages.dev](https://monad-project.pages.dev/) |
 | **Contract** | [`0x6e93CE34DB89Cf14C1846Ea65967f5506477F908`](https://testnet.monadvision.com/address/0x6e93CE34DB89Cf14C1846Ea65967f5506477F908) — source verified |
 | **Network** | Monad Testnet, chain ID `10143` |
 | **Tests** | 38 passing, including fuzz and stateful invariants |
